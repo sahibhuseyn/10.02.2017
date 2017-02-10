@@ -1,0 +1,70 @@
+.logo{ 
+	position:absolute;
+	left: 15px;
+	top: 15px;
+}
+.menu-up{
+	position: absolute;
+	right:100px;
+	top: 15px;
+	word-spacing: 5px;
+}
+.search-bar{
+	position: absolute;
+	right: 10px;
+	top: 30px;
+}
+.main-menu{
+	font-size: 1.5em;
+	position: absolute;
+	left: 250px;
+	top: 100px;
+	word-spacing: 20px;
+}
+.partners{
+	position: absolute;
+	left: 15px;
+	top: 500px;
+}
+.offers{
+	position: absolute;
+	left: 150px;
+	top: 650px;
+}
+.fac-man-img{
+	float: left 160px;
+	margin: 0 0 15px 15px;
+}
+.industries-img{
+float: left 15px;
+margin: 0 0 15px 15px;
+}
+.assets-img{
+	float: right;
+	margin: 0 0 15px 15px;
+}
+.contact{
+	position: absolute;
+	left: 15px;
+	top: 750px;
+}
+
+.facebook{
+	position: absolute;
+	right: 15px;
+	
+}
+.linkedin{
+	position: absolute;
+	right:30px;
+}
+.youtube{
+	position: absolute;
+	right: 60px;
+}
+.footer{
+	position: absolute;
+	left: 15px;
+	top: 850px;
+
+}
